@@ -1,3 +1,6 @@
+Zohar Lavi
+CSA 2024-25
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
